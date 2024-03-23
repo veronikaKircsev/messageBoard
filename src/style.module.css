@@ -1,0 +1,37 @@
+.message {
+    border-left: 10px solid red;
+   background-color: lightgrey;
+   list-style-type: none;
+}
+
+.messageRed {
+    border-left: 10px solid gray;
+    background-color: white;
+    list-style-type: none;
+}
+
+
+
+.root{
+    background-color: aliceblue;
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 30%;
+    padding: 50px;
+    min-height: 300px;
+    min-width: 400px;
+    }
+
+
+.header {
+        border: 10px none solid;;
+ }
+    
+.choosed {
+    
+        border-bottom: 10px solid greenyellow;
+}
+
+
+
+
