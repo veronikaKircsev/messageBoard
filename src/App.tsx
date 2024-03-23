@@ -89,7 +89,7 @@ export default function App() {
     <div className={styles.root}>
       <h1 style={{ fontWeight: 'bold' }}>Message Board</h1>
       <div className={styles.board}>
-        <Tabs className={styles['react-aria-Tabs']} >
+        <Tabs className={'react-aria-Tabs'} >
           <TabList className={styles['react-aria-TabList']} > 
             <Tab id="addMessage" className={styles['react-aria-Tab']}>
               <ClickableHeader title="Add Message"
